@@ -9,8 +9,8 @@ github.com/Azure/go-ansiterm/winterm
 ## explicit; go 1.16
 github.com/BurntSushi/toml
 github.com/BurntSushi/toml/internal
-# github.com/DATA-DOG/go-sqlmock v1.5.0
-## explicit
+# github.com/DATA-DOG/go-sqlmock v1.5.2
+## explicit; go 1.15
 github.com/DATA-DOG/go-sqlmock
 # github.com/MakeNowJust/heredoc v1.0.0
 ## explicit; go 1.12
@@ -64,7 +64,7 @@ github.com/chai2010/gettext-go
 github.com/chai2010/gettext-go/mo
 github.com/chai2010/gettext-go/plural
 github.com/chai2010/gettext-go/po
-# github.com/containerd/containerd v1.7.11
+# github.com/containerd/containerd v1.7.12
 ## explicit; go 1.19
 github.com/containerd/containerd/archive/compression
 github.com/containerd/containerd/content
